@@ -21,11 +21,4 @@ This is the backend for the Cargo Shipment Tracker application, built using **No
 - **dotenv** - Manage environment variables
 - **Morgan** - Logger for debugging
 
----
 
-## 📌 Setup Instructions
-
-### 1️⃣ Clone the Repository
-```sh
-git clone https://github.com/your-username/shipment-tracker-backend.git
-cd shipment-tracker-backend
